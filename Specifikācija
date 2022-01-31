@@ -1,0 +1,3 @@
+Lietotājs ievada patvaļīgi izvēlētu teikumu.
+Funkcija apgriež visus vārdus otrādā secībā un atgriež šo pārveidoto teikumu.
+Ja teikumā tikai viens vārds, funkcija atgriež paziņojumu “Pārāk īss teikums!”.
